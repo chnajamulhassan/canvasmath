@@ -413,7 +413,7 @@ export default function Home() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {/* GitHub Link */}
             <a
-              href="https://github.com/your-username/canvasmath"
+              href="https://github.com/chnajamulhassan/canvasmath"
               target="_blank"
               rel="noopener noreferrer"
               className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800/80 hover:border-indigo-500/50 hover:bg-slate-950 transition group block"
@@ -429,7 +429,7 @@ export default function Home() {
 
             {/* Project Report Link */}
             <a
-              href="https://drive.google.com/your-report-link"
+              href="https://drive.google.com/file/d/1427Cm-_XZuKMKxI2-djgaiExwW3UoepY/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800/80 hover:border-indigo-500/50 hover:bg-slate-950 transition group block"
