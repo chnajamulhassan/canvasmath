@@ -350,26 +350,26 @@ export default function Home() {
                 Test Accuracy
               </p>
               <p className="text-2xl font-black text-emerald-400 mt-1">
-                99.51%
+                 99.525%
               </p>
             </div>
             <div className="bg-slate-950/80 p-5 rounded-2xl border border-slate-800/80">
               <p className="text-slate-400 text-xs font-semibold uppercase tracking-wider">
                 Test Loss
               </p>
-              <p className="text-2xl font-black text-blue-400 mt-1">0.0173</p>
+              <p className="text-2xl font-black text-blue-400 mt-1">0.0195</p>
             </div>
             <div className="bg-slate-950/80 p-5 rounded-2xl border border-slate-800/80">
               <p className="text-slate-400 text-xs font-semibold uppercase tracking-wider">
                 Precision
               </p>
-              <p className="text-2xl font-black text-purple-400 mt-1">0.9951</p>
+              <p className="text-2xl font-black text-purple-400 mt-1"> 0.9953</p>
             </div>
             <div className="bg-slate-950/80 p-5 rounded-2xl border border-slate-800/80">
               <p className="text-slate-400 text-xs font-semibold uppercase tracking-wider">
                 F1-Score
               </p>
-              <p className="text-2xl font-black text-indigo-400 mt-1">0.9951</p>
+              <p className="text-2xl font-black text-indigo-400 mt-1">0.9952</p>
             </div>
           </div>
         </section>
