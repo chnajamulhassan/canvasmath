@@ -429,7 +429,7 @@ export default function Home() {
 
             {/* Project Report Link */}
             <a
-              href="https://drive.google.com/file/d/1427Cm-_XZuKMKxI2-djgaiExwW3UoepY/view?usp=sharing"
+              href="https://drive.google.com/file/d/1IDA3rZ9Y4KyeaIAuAYjewVqNOafnnzcr/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800/80 hover:border-indigo-500/50 hover:bg-slate-950 transition group block"
