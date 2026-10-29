@@ -447,7 +447,7 @@ export default function Home() {
 
             {/* PPT Presentation Link */}
             <a
-              href="https://docs.google.com/your-ppt-link"
+              href="https://docs.google.com/presentation/d/1Nz_Y30jVgB6ZCYhYiJNE-LajQR0Gaghn/edit?usp=sharing&ouid=107662592479196420671&rtpof=true&sd=true"
               target="_blank"
               rel="noopener noreferrer"
               className="p-5 rounded-2xl bg-slate-950/80 border border-slate-800/80 hover:border-indigo-500/50 hover:bg-slate-950 transition group block"
